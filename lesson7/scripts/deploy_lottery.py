@@ -50,6 +50,9 @@ def end_lottery():
 
 
 def main():
+    """
+      brownie run scripts/deploy_lottery.py --network rinkeby
+    """
     deploy_lottery()
     start_lottery()
     enter_lottery()
