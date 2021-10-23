@@ -8,4 +8,5 @@
   - local blockchain
 - [infura](https://infura.io)
   - Ethereum API
+- [alchemy](https://dashboard.alchemyapi.io/)
 
